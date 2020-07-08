@@ -9,7 +9,7 @@ pour mon cas j'ai utilisé l'API de <a href='https://developers.themoviedb.org/3
 
 Pour ce qui est de l'interface, j'ai utiliser le framework css <a href='https://tailwindcss.com/'>Tailwindcss</a>.
 
-## Images du projet
+### Images du projet
 
 ![Capture d'écran du 2020-07-08 22 12 33](https://user-images.githubusercontent.com/56683920/86967443-ec195a00-c16a-11ea-88f3-c48aa6806c3a.png)
 ![Capture d'écran du 2020-07-08 22 13 10](https://user-images.githubusercontent.com/56683920/86967454-eface100-c16a-11ea-9e42-7cba708bf224.png)
