@@ -1,4 +1,4 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+![Capture d'écran du 2020-07-08 22 11 52](https://user-images.githubusercontent.com/56683920/86966818-0bfc4e00-c16a-11ea-9ef9-3abf383d43d9.png)
 
 ## My cinema
 
